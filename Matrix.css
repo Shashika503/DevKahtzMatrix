@@ -1,0 +1,9 @@
+body {
+   
+        min-height: 300%;
+        display: absolute;
+        justify-content: center;
+        align-items: center;
+        background: #181818;
+    
+  }
